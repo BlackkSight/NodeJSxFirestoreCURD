@@ -1,7 +1,7 @@
 # NodeJSxFirestoreCURD
 API per fer CRUD a firestore
 
-# Guia instal·lació
+# Guia d'instal·lació
 
 Descarregar el codi
 
@@ -24,4 +24,11 @@ Executar el servidor
 
 ```
 npm start
+```
+# Guia de desplegament a GCP
+
+Executar el següent comandament per fer ús de Cloud Run
+
+```
+gcloud run deploy
 ```
