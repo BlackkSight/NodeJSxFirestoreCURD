@@ -1,6 +1,12 @@
 # NodeJSxFirestoreCURD
 API per fer CRUD a firestore
 
+Exemple a:
+
+```
+https://firebasexnode-2hlxxltleq-ew.a.run.app/
+```
+
 # Guia d'instal·lació
 
 Descarregar el codi
